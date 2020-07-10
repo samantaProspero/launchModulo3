@@ -1,0 +1,91 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "avatar_url": "https://images.unsplash.com/photo-1550345332-09e3ac987658?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+      "name": "Costelinha",
+      "email": "costelinha@gmail.com",
+      "birth": 1286841600000,
+      "gender": "F",
+      "blood": "B+",
+      "weight": "11",
+      "height": "90"
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://images.unsplash.com/photo-1548690312-e3b507d8c110?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+      "name": "Maya",
+      "email": "maya@gmail.com",
+      "birth": 328060800000,
+      "gender": "F",
+      "blood": "A+",
+      "weight": "26",
+      "height": "120"
+    }
+  ],
+  "instructors": [
+    {
+      "id": 1,
+      "avatar_url": "https://images.unsplash.com/photo-1549476464-37392f717541?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjF9&auto=format&fit=crop&w=300&q=60",
+      "name": "Cleiton Aparecido",
+      "birth": -602208000000,
+      "gender": "M",
+      "services": "Musculação",
+      "created_at": 1582297631838
+    },
+    {
+      "id": 3,
+      "avatar_url": "https://images.unsplash.com/photo-1548690312-e3b507d8c110?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+      "name": "Samanta",
+      "birth": 218332800000,
+      "gender": "F",
+      "services": "Musculação",
+      "created_at": 1582299123989
+    },
+    {
+      "id": 4,
+      "avatar_url": "https://images.unsplash.com/photo-1549481446-baf395392d13?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=60",
+      "name": "Mayk",
+      "birth": -307411200000,
+      "gender": "M",
+      "services": "Musculação, Natação, Crossfit",
+      "created_at": 1582301697135
+    },
+    {
+      "id": 5,
+      "avatar_url": "https://images.unsplash.com/photo-1548933122-5fedf3661c57?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=60",
+      "name": "Carlos",
+      "birth": 444873600000,
+      "gender": "M",
+      "services": "Musculação, Natação",
+      "created_at": 1582302770840
+    },
+    {
+      "id": 7,
+      "avatar_url": "https://images.unsplash.com/flagged/photo-1564751960840-09e77c620391?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=60",
+      "name": "Juvelino",
+      "birth": 446688000000,
+      "gender": "M",
+      "services": "Musculação",
+      "created_at": 1582302915123
+    },
+    {
+      "id": 8,
+      "avatar_url": "https://images.unsplash.com/photo-1550345332-09e3ac987658?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+      "name": "Lucimara",
+      "birth": 446515200000,
+      "gender": "F",
+      "services": "Ballet",
+      "created_at": 1582318489272
+    },
+    {
+      "id": 9,
+      "avatar_url": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "name": "Carlos Alberto",
+      "birth": 76636800000,
+      "gender": "M",
+      "services": "Musculação, Natação",
+      "created_at": 1582318797263
+    }
+  ]
+}
